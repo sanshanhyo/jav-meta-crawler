@@ -2,6 +2,10 @@
 __pycache__/
 .pytest_cache/
 .ruff_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
 *.py[cod]
 *.egg-info/
 .venv/
@@ -9,5 +13,7 @@ venv/
 dist/
 build/
 data/
+logs/
+tmp/
 .javlibrary-browser/
 config/javlibrary-option.yml
