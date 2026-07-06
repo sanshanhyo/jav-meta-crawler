@@ -1,0 +1,13 @@
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+data/
+.javlibrary-browser/
+config/javlibrary-option.yml
